@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/guoxiao/Desktop/research/tensorFlow/tutorial/model.ckpt"
+all_model_checkpoint_paths: "/Users/guoxiao/Desktop/research/tensorFlow/tutorial/model.ckpt"
